@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.248ca46a.css",
+    "main.js": "/static/js/main.e102e78d.js",
+    "static/media/lake.jpg": "/static/media/lake.c4a6458df297b61d59d4.jpg",
+    "static/media/madagascar.jpg": "/static/media/madagascar.27784b2b76a573245443.jpg",
+    "static/media/maledives-m.jpg": "/static/media/maledives-m.4525df7767f7bbd98b85.jpg",
+    "static/media/water.jpg": "/static/media/water.3550b45fd12ca7716aa7.jpg",
+    "static/media/oslo-m.jpg": "/static/media/oslo-m.cdbc3106a260925e3b55.jpg",
+    "static/media/nature3.jpg": "/static/media/nature3.15f0f9d498e086453616.jpg",
+    "static/media/nature2.jpg": "/static/media/nature2.51743b47743174c5565a.jpg",
+    "static/media/nature1.jpg": "/static/media/nature1.78ec310ec7f1ea22eb23.jpg",
+    "static/media/sunset1.jpg": "/static/media/sunset1.9bcab1b671cdc298256c.jpg",
+    "index.html": "/index.html",
+    "main.248ca46a.css.map": "/static/css/main.248ca46a.css.map",
+    "main.e102e78d.js.map": "/static/js/main.e102e78d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.248ca46a.css",
+    "static/js/main.e102e78d.js"
+  ]
+}
