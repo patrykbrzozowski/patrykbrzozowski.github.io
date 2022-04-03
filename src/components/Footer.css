@@ -1,0 +1,15 @@
+.footer-container {
+  background: #cdb4db;
+  padding: 20px 23px;
+  color: #fff;
+  text-align: center;
+}
+
+.footer-logo {
+  color: #bde0fe;
+  text-decoration: none;
+}
+
+.footer-container span a:hover {
+  text-decoration: underline;
+}

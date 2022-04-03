@@ -1,38 +1,115 @@
-.App {
-  text-align: center;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.home,
+.storm,
+.aurora,
+.lake,
+.oslo,
+.maldives,
+.tenerife,
+.switzerland,
+.madagascar {
   display: flex;
-  flex-direction: column;
+  height: 90vh;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: 3rem;
 }
 
-.App-link {
-  color: #61dafb;
+.about,
+.contact {
+  height: 90vh;
+  margin: auto;
+  text-align: center;
+  padding-top: 70px;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.about {
+  height: 100vh;
+}
+
+.about .text {
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.about .text span {
+  color: #cdb4db;
+  text-decoration: underline;
+}
+.about p {
+  width: 70%;
+  font-size: 20px;
+  font-weight: 400;
+  margin: auto;
+  text-align: left;
+}
+
+.contact h2 {
+  margin-bottom: 50px;
+}
+
+.contact .text {
+  font-size: 25px;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left: 10vw;
+  text-align: left;
+}
+
+.contact span {
+  text-decoration: underline #cdb4db 3px;
+}
+
+.storm,
+.aurora,
+.lake,
+.oslo,
+.maldives,
+.tenerife,
+.switzerland,
+.madagascar {
+  background-image: url('/public/images/nature2.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.aurora {
+  background-image: url('/public/images/nature1.jpg');
+}
+
+.lake {
+  background-image: url('/public/images/nature3.jpg');
+}
+
+.oslo {
+  background-image: url('/public/images/oslo-m.jpg');
+}
+
+.maldives {
+  background-image: url('/public/images/maledives-m.jpg');
+}
+
+.tenerife {
+  background-image: url('/public/images/water.jpg');
+}
+
+.switzerland {
+  background-image: url('/public/images/lake.jpg');
+}
+
+.madagascar {
+  background-image: url('/public/images/madagascar.jpg');
 }
