@@ -16,7 +16,7 @@ function MoreCards() {
             />
             <CardItem
               src="images/maledives-m.jpg"
-              title="Malediwy: 10 rzeczy które warto zrobić i zobaczyć"
+              title="Malediwy - 10 rzeczy które warto zrobić i zobaczyć"
               path="/maldives"
             />
           </ul>
