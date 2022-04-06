@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c791e82b.css",
+    "main.css": "/static/css/main.8a3a44c5.css",
     "main.js": "/static/js/main.69810287.js",
     "static/media/lake.jpg": "/static/media/lake.e5fbd9759c02fa6f092f.jpg",
     "static/media/maledives.jpg": "/static/media/maledives.4525df7767f7bbd98b85.jpg",
@@ -12,11 +12,11 @@
     "static/media/nature1.jpg": "/static/media/nature1.78ec310ec7f1ea22eb23.jpg",
     "static/media/sunset1.jpg": "/static/media/sunset1.9bcab1b671cdc298256c.jpg",
     "index.html": "/index.html",
-    "main.c791e82b.css.map": "/static/css/main.c791e82b.css.map",
+    "main.8a3a44c5.css.map": "/static/css/main.8a3a44c5.css.map",
     "main.69810287.js.map": "/static/js/main.69810287.js.map"
   },
   "entrypoints": [
-    "static/css/main.c791e82b.css",
+    "static/css/main.8a3a44c5.css",
     "static/js/main.69810287.js"
   ]
 }
